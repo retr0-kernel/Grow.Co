@@ -28,3 +28,5 @@ A list of technologies we have used:
 * CSS3
 * JavaScript
 * Firebase
+* News API
+* Django
