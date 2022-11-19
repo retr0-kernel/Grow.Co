@@ -2,7 +2,7 @@
 
 ### Connecting Budding Startups to Investors
 
-Grow.co is a platform that goals to connect budding and inclusive startups to valid investors. We connect the startup to the right people, products and best practices to help your startup to grow.
+Grow.Co is a platform that goals to connect budding and inclusive startups to valid investors. We connect the startup to the right people, products and best practices to help your startup to grow.
 
 ### Table of Contents
 
