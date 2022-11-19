@@ -1,4 +1,4 @@
-# Grow.co (Team k1llsh0t)
+# Grow.Co (Team k1llsh0t)
 
 ### Connecting Budding Startups to Investors
 
