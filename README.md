@@ -52,4 +52,13 @@ A list of technologies we have used:
 * News API
 * Fetch API.
 
+## Challenges Faced:
+  * Integrating News Api into the js code
+  * Switching from one idea to another nearly halfway through the development of the first one.
+
+## Future of Grow.co:
+* Adding backend
+* Improving UI of the news section
+* Adding mentorship features to help young minds enter their field of interest.
+
 
