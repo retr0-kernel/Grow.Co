@@ -10,6 +10,15 @@ Grow.co is a platform that goals to connect budding and inclusive startups to va
 2. [Technologies](#technologies)
 3. [Problem](#problem)
 
+<br>
+
+![Screenshot](./Screenshots/map.png)
+
+
+
+![Screenshot](./Screenshots/home.jpg)
+![Screenshot](./Screenshots/about.jpg)
+
 
 ## Features
 ***
@@ -18,6 +27,14 @@ Grow.co is a platform that goals to connect budding and inclusive startups to va
 * A platform where investors can invest in new and upcoming startups an also follow their progress.
 * Would be really helpful for school and college level startups.
 * A platform to promote enterpenurship among young minds.
+
+## Screenshots
+![Screenshot](./Screenshots/review_section.jpg)
+![Screenshot](./Screenshots/start_up_page.jpg)
+![Screenshot](./Screenshots/startuppg2.jpg)
+![Screenshot](./Screenshots/investor_page.jpg)
+![Screenshot](./Screenshots/Contactpg.jpg)
+
 
 ## Technologies
 ***
